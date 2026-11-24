@@ -4,7 +4,7 @@
   --muted: #71817a;
   --accent: #527d66;
   --accent-dark: #3e6651;
-  --paper: #f5f6f0;
+  --paper: #f6f2e9;
   --card: #fffefa;
   --line: #e8ebe3;
   --soft-green: #eaf0e8;
@@ -23,7 +23,7 @@ body {
   margin: 0;
   color: var(--ink);
   background:
-    radial-gradient(ellipse at 12% 9%, rgb(226 235 220 / 55%), transparent 31rem),
+    radial-gradient(ellipse at 12% 9%, rgb(240 228 209 / 55%), transparent 31rem),
     var(--paper);
 }
 
